@@ -25,8 +25,8 @@ namespace AdventOfCode.solutions.day01
                     continue;
                 }
 
-                _ = int.TryParse(line, out int calory);
-                calories[^1] += calory;
+                _ = int.TryParse(line, out int calorie);
+                calories[^1] += calorie;
 
             }
 
