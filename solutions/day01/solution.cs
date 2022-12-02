@@ -10,7 +10,7 @@ namespace AdventOfCode.solutions.day01
     internal sealed class Solution
     {
 
-        static void Main()
+        static void day01()
         {
 
             List<int> calories = new() { 0 };
